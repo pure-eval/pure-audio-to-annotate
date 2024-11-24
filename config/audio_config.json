@@ -18,8 +18,8 @@
           "files": [
             {
               "base_name": "10011",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10011-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10011.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10011-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10011.wav",
               "metadata": {
                 "filename": "10011",
                 "split": "FSD50K/test",
@@ -29,8 +29,8 @@
             },
             {
               "base_name": "10035",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10035-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10035.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10035-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10035.wav",
               "metadata": {
                 "filename": "10035",
                 "split": "FSD50K/test",
@@ -40,8 +40,8 @@
             },
             {
               "base_name": "10190",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10190-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10190.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10190-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/10190.wav",
               "metadata": {
                 "filename": "10190",
                 "split": "FSD50K/test",
@@ -51,8 +51,8 @@
             },
             {
               "base_name": "156",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/156-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/156.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/156-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/156.wav",
               "metadata": {
                 "filename": "156",
                 "split": "FSD50K/test",
@@ -62,8 +62,8 @@
             },
             {
               "base_name": "1594",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/1594-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/1594.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/1594-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/1594.wav",
               "metadata": {
                 "filename": "1594",
                 "split": "FSD50K/test",
@@ -73,8 +73,8 @@
             },
             {
               "base_name": "1981",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/1981-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/1981.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/1981-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/1981.wav",
               "metadata": {
                 "filename": "1981",
                 "split": "FSD50K/test",
@@ -84,8 +84,8 @@
             },
             {
               "base_name": "2102",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2102-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2102.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2102-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2102.wav",
               "metadata": {
                 "filename": "2102",
                 "split": "FSD50K/test",
@@ -95,8 +95,8 @@
             },
             {
               "base_name": "2465",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2465-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2465.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2465-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2465.wav",
               "metadata": {
                 "filename": "2465",
                 "split": "FSD50K/test",
@@ -106,8 +106,8 @@
             },
             {
               "base_name": "2899",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2899-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2899.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2899-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2899.wav",
               "metadata": {
                 "filename": "2899",
                 "split": "FSD50K/test",
@@ -117,8 +117,8 @@
             },
             {
               "base_name": "2938",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2938-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2938.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2938-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2938.wav",
               "metadata": {
                 "filename": "2938",
                 "split": "FSD50K/test",
@@ -128,8 +128,8 @@
             },
             {
               "base_name": "2976",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2976-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2976.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2976-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/2976.wav",
               "metadata": {
                 "filename": "2976",
                 "split": "FSD50K/test",
@@ -139,8 +139,8 @@
             },
             {
               "base_name": "3148",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3148-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3148.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3148-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3148.wav",
               "metadata": {
                 "filename": "3148",
                 "split": "FSD50K/test",
@@ -150,8 +150,8 @@
             },
             {
               "base_name": "3171",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3171-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3171.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3171-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3171.wav",
               "metadata": {
                 "filename": "3171",
                 "split": "FSD50K/test",
@@ -161,8 +161,8 @@
             },
             {
               "base_name": "3326",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3326-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3326.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3326-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3326.wav",
               "metadata": {
                 "filename": "3326",
                 "split": "FSD50K/test",
@@ -172,8 +172,8 @@
             },
             {
               "base_name": "3503",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3503-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3503.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3503-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/3503.wav",
               "metadata": {
                 "filename": "3503",
                 "split": "FSD50K/test",
@@ -183,8 +183,8 @@
             },
             {
               "base_name": "379",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/379-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/379.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/379-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/379.wav",
               "metadata": {
                 "filename": "379",
                 "split": "FSD50K/test",
@@ -194,8 +194,8 @@
             },
             {
               "base_name": "4216",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4216-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4216.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4216-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4216.wav",
               "metadata": {
                 "filename": "4216",
                 "split": "FSD50K/test",
@@ -205,8 +205,8 @@
             },
             {
               "base_name": "4247",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4247-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4247.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4247-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4247.wav",
               "metadata": {
                 "filename": "4247",
                 "split": "FSD50K/test",
@@ -216,8 +216,8 @@
             },
             {
               "base_name": "4279",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4279-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4279.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4279-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4279.wav",
               "metadata": {
                 "filename": "4279",
                 "split": "FSD50K/test",
@@ -227,8 +227,8 @@
             },
             {
               "base_name": "4448",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4448-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4448.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4448-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4448.wav",
               "metadata": {
                 "filename": "4448",
                 "split": "FSD50K/test",
@@ -238,8 +238,8 @@
             },
             {
               "base_name": "4489",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4489-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4489.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4489-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4489.wav",
               "metadata": {
                 "filename": "4489",
                 "split": "FSD50K/test",
@@ -249,8 +249,8 @@
             },
             {
               "base_name": "4543",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4543-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4543.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4543-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4543.wav",
               "metadata": {
                 "filename": "4543",
                 "split": "FSD50K/test",
@@ -260,8 +260,8 @@
             },
             {
               "base_name": "4983",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4983-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4983.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4983-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/4983.wav",
               "metadata": {
                 "filename": "4983",
                 "split": "FSD50K/test",
@@ -271,8 +271,8 @@
             },
             {
               "base_name": "509",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/509-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/509.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/509-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/509.wav",
               "metadata": {
                 "filename": "509",
                 "split": "FSD50K/test",
@@ -282,8 +282,8 @@
             },
             {
               "base_name": "5099",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5099-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5099.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5099-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5099.wav",
               "metadata": {
                 "filename": "5099",
                 "split": "FSD50K/test",
@@ -293,8 +293,8 @@
             },
             {
               "base_name": "5348",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5348-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5348.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5348-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5348.wav",
               "metadata": {
                 "filename": "5348",
                 "split": "FSD50K/test",
@@ -304,8 +304,8 @@
             },
             {
               "base_name": "564",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/564-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/564.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/564-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/564.wav",
               "metadata": {
                 "filename": "564",
                 "split": "FSD50K/test",
@@ -315,8 +315,8 @@
             },
             {
               "base_name": "5730",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5730-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5730.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5730-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5730.wav",
               "metadata": {
                 "filename": "5730",
                 "split": "FSD50K/test",
@@ -326,8 +326,8 @@
             },
             {
               "base_name": "5861",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5861-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5861.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5861-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5861.wav",
               "metadata": {
                 "filename": "5861",
                 "split": "FSD50K/test",
@@ -337,8 +337,8 @@
             },
             {
               "base_name": "5863",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5863-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5863.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5863-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/5863.wav",
               "metadata": {
                 "filename": "5863",
                 "split": "FSD50K/test",
@@ -348,8 +348,8 @@
             },
             {
               "base_name": "6",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6.wav",
               "metadata": {
                 "filename": "6",
                 "split": "FSD50K/test",
@@ -359,8 +359,8 @@
             },
             {
               "base_name": "6066",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6066-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6066.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6066-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6066.wav",
               "metadata": {
                 "filename": "6066",
                 "split": "FSD50K/test",
@@ -370,8 +370,8 @@
             },
             {
               "base_name": "6494",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6494-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6494.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6494-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6494.wav",
               "metadata": {
                 "filename": "6494",
                 "split": "FSD50K/test",
@@ -381,8 +381,8 @@
             },
             {
               "base_name": "6924",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6924-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6924.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6924-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/6924.wav",
               "metadata": {
                 "filename": "6924",
                 "split": "FSD50K/test",
@@ -392,8 +392,8 @@
             },
             {
               "base_name": "7061",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7061-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7061.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7061-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7061.wav",
               "metadata": {
                 "filename": "7061",
                 "split": "FSD50K/test",
@@ -403,8 +403,8 @@
             },
             {
               "base_name": "7195",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7195-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7195.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7195-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7195.wav",
               "metadata": {
                 "filename": "7195",
                 "split": "FSD50K/test",
@@ -414,8 +414,8 @@
             },
             {
               "base_name": "7207",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7207-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7207.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7207-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7207.wav",
               "metadata": {
                 "filename": "7207",
                 "split": "FSD50K/test",
@@ -425,8 +425,8 @@
             },
             {
               "base_name": "7231",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7231-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7231.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7231-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7231.wav",
               "metadata": {
                 "filename": "7231",
                 "split": "FSD50K/test",
@@ -436,8 +436,8 @@
             },
             {
               "base_name": "7456",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7456-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7456.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7456-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7456.wav",
               "metadata": {
                 "filename": "7456",
                 "split": "FSD50K/test",
@@ -447,8 +447,8 @@
             },
             {
               "base_name": "7514",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7514-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7514.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7514-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7514.wav",
               "metadata": {
                 "filename": "7514",
                 "split": "FSD50K/test",
@@ -458,8 +458,8 @@
             },
             {
               "base_name": "7639",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7639-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7639.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7639-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/7639.wav",
               "metadata": {
                 "filename": "7639",
                 "split": "FSD50K/test",
@@ -469,8 +469,8 @@
             },
             {
               "base_name": "8279",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8279-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8279.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8279-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8279.wav",
               "metadata": {
                 "filename": "8279",
                 "split": "FSD50K/test",
@@ -480,8 +480,8 @@
             },
             {
               "base_name": "8432",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8432-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8432.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8432-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8432.wav",
               "metadata": {
                 "filename": "8432",
                 "split": "FSD50K/test",
@@ -491,8 +491,8 @@
             },
             {
               "base_name": "8542",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8542-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8542.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8542-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8542.wav",
               "metadata": {
                 "filename": "8542",
                 "split": "FSD50K/test",
@@ -502,8 +502,8 @@
             },
             {
               "base_name": "8856",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8856-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8856.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8856-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8856.wav",
               "metadata": {
                 "filename": "8856",
                 "split": "FSD50K/test",
@@ -513,8 +513,8 @@
             },
             {
               "base_name": "8883",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8883-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8883.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8883-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/8883.wav",
               "metadata": {
                 "filename": "8883",
                 "split": "FSD50K/test",
@@ -524,8 +524,8 @@
             },
             {
               "base_name": "917",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/917-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/917.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/917-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/917.wav",
               "metadata": {
                 "filename": "917",
                 "split": "FSD50K/test",
@@ -535,8 +535,8 @@
             },
             {
               "base_name": "9217",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9217-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9217.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9217-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9217.wav",
               "metadata": {
                 "filename": "9217",
                 "split": "FSD50K/test",
@@ -546,8 +546,8 @@
             },
             {
               "base_name": "9228",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9228-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9228.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9228-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9228.wav",
               "metadata": {
                 "filename": "9228",
                 "split": "FSD50K/test",
@@ -557,8 +557,8 @@
             },
             {
               "base_name": "9846",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9846-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9846.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9846-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9846.wav",
               "metadata": {
                 "filename": "9846",
                 "split": "FSD50K/test",
@@ -573,8 +573,8 @@
           "files": [
             {
               "base_name": "10011",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10011-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10011.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10011-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10011.wav",
               "metadata": {
                 "filename": "10011",
                 "split": "FSD50K/test",
@@ -584,8 +584,8 @@
             },
             {
               "base_name": "10035",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10035-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10035.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10035-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10035.wav",
               "metadata": {
                 "filename": "10035",
                 "split": "FSD50K/test",
@@ -595,8 +595,8 @@
             },
             {
               "base_name": "10190",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10190-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10190.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10190-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/10190.wav",
               "metadata": {
                 "filename": "10190",
                 "split": "FSD50K/test",
@@ -606,8 +606,8 @@
             },
             {
               "base_name": "156",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/156-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/156.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/156-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/156.wav",
               "metadata": {
                 "filename": "156",
                 "split": "FSD50K/test",
@@ -617,8 +617,8 @@
             },
             {
               "base_name": "1594",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/1594-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/1594.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/1594-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/1594.wav",
               "metadata": {
                 "filename": "1594",
                 "split": "FSD50K/test",
@@ -628,8 +628,8 @@
             },
             {
               "base_name": "1981",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/1981-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/1981.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/1981-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/1981.wav",
               "metadata": {
                 "filename": "1981",
                 "split": "FSD50K/test",
@@ -639,8 +639,8 @@
             },
             {
               "base_name": "2102",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2102-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2102.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2102-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2102.wav",
               "metadata": {
                 "filename": "2102",
                 "split": "FSD50K/test",
@@ -650,8 +650,8 @@
             },
             {
               "base_name": "2465",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2465-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2465.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2465-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2465.wav",
               "metadata": {
                 "filename": "2465",
                 "split": "FSD50K/test",
@@ -661,8 +661,8 @@
             },
             {
               "base_name": "2899",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2899-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2899.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2899-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2899.wav",
               "metadata": {
                 "filename": "2899",
                 "split": "FSD50K/test",
@@ -672,8 +672,8 @@
             },
             {
               "base_name": "2938",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2938-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2938.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2938-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2938.wav",
               "metadata": {
                 "filename": "2938",
                 "split": "FSD50K/test",
@@ -683,8 +683,8 @@
             },
             {
               "base_name": "2976",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2976-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2976.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2976-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/2976.wav",
               "metadata": {
                 "filename": "2976",
                 "split": "FSD50K/test",
@@ -694,8 +694,8 @@
             },
             {
               "base_name": "3148",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3148-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3148.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3148-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3148.wav",
               "metadata": {
                 "filename": "3148",
                 "split": "FSD50K/test",
@@ -705,8 +705,8 @@
             },
             {
               "base_name": "3171",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3171-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3171.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3171-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3171.wav",
               "metadata": {
                 "filename": "3171",
                 "split": "FSD50K/test",
@@ -716,8 +716,8 @@
             },
             {
               "base_name": "3326",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3326-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3326.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3326-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3326.wav",
               "metadata": {
                 "filename": "3326",
                 "split": "FSD50K/test",
@@ -727,8 +727,8 @@
             },
             {
               "base_name": "3503",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3503-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3503.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3503-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/3503.wav",
               "metadata": {
                 "filename": "3503",
                 "split": "FSD50K/test",
@@ -738,8 +738,8 @@
             },
             {
               "base_name": "379",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/379-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/379.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/379-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/379.wav",
               "metadata": {
                 "filename": "379",
                 "split": "FSD50K/test",
@@ -749,8 +749,8 @@
             },
             {
               "base_name": "4216",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4216-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4216.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4216-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4216.wav",
               "metadata": {
                 "filename": "4216",
                 "split": "FSD50K/test",
@@ -760,8 +760,8 @@
             },
             {
               "base_name": "4247",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4247-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4247.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4247-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4247.wav",
               "metadata": {
                 "filename": "4247",
                 "split": "FSD50K/test",
@@ -771,8 +771,8 @@
             },
             {
               "base_name": "4279",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4279-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4279.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4279-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4279.wav",
               "metadata": {
                 "filename": "4279",
                 "split": "FSD50K/test",
@@ -782,8 +782,8 @@
             },
             {
               "base_name": "4448",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4448-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4448.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4448-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4448.wav",
               "metadata": {
                 "filename": "4448",
                 "split": "FSD50K/test",
@@ -793,8 +793,8 @@
             },
             {
               "base_name": "4489",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4489-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4489.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4489-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4489.wav",
               "metadata": {
                 "filename": "4489",
                 "split": "FSD50K/test",
@@ -804,8 +804,8 @@
             },
             {
               "base_name": "4543",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4543-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4543.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4543-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4543.wav",
               "metadata": {
                 "filename": "4543",
                 "split": "FSD50K/test",
@@ -815,8 +815,8 @@
             },
             {
               "base_name": "4983",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4983-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4983.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4983-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/4983.wav",
               "metadata": {
                 "filename": "4983",
                 "split": "FSD50K/test",
@@ -826,8 +826,8 @@
             },
             {
               "base_name": "509",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/509-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/509.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/509-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/509.wav",
               "metadata": {
                 "filename": "509",
                 "split": "FSD50K/test",
@@ -837,8 +837,8 @@
             },
             {
               "base_name": "5099",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5099-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5099.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5099-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5099.wav",
               "metadata": {
                 "filename": "5099",
                 "split": "FSD50K/test",
@@ -848,8 +848,8 @@
             },
             {
               "base_name": "5348",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5348-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5348.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5348-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5348.wav",
               "metadata": {
                 "filename": "5348",
                 "split": "FSD50K/test",
@@ -859,8 +859,8 @@
             },
             {
               "base_name": "564",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/564-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/564.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/564-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/564.wav",
               "metadata": {
                 "filename": "564",
                 "split": "FSD50K/test",
@@ -870,8 +870,8 @@
             },
             {
               "base_name": "5730",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5730-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5730.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5730-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5730.wav",
               "metadata": {
                 "filename": "5730",
                 "split": "FSD50K/test",
@@ -881,8 +881,8 @@
             },
             {
               "base_name": "5861",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5861-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5861.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5861-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5861.wav",
               "metadata": {
                 "filename": "5861",
                 "split": "FSD50K/test",
@@ -892,8 +892,8 @@
             },
             {
               "base_name": "5863",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5863-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5863.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5863-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/5863.wav",
               "metadata": {
                 "filename": "5863",
                 "split": "FSD50K/test",
@@ -903,8 +903,8 @@
             },
             {
               "base_name": "6",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6.wav",
               "metadata": {
                 "filename": "6",
                 "split": "FSD50K/test",
@@ -914,8 +914,8 @@
             },
             {
               "base_name": "6066",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6066-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6066.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6066-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6066.wav",
               "metadata": {
                 "filename": "6066",
                 "split": "FSD50K/test",
@@ -925,8 +925,8 @@
             },
             {
               "base_name": "6494",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6494-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6494.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6494-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6494.wav",
               "metadata": {
                 "filename": "6494",
                 "split": "FSD50K/test",
@@ -936,8 +936,8 @@
             },
             {
               "base_name": "6924",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6924-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6924.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6924-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/6924.wav",
               "metadata": {
                 "filename": "6924",
                 "split": "FSD50K/test",
@@ -947,8 +947,8 @@
             },
             {
               "base_name": "7061",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7061-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7061.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7061-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7061.wav",
               "metadata": {
                 "filename": "7061",
                 "split": "FSD50K/test",
@@ -958,8 +958,8 @@
             },
             {
               "base_name": "7195",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7195-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7195.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7195-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7195.wav",
               "metadata": {
                 "filename": "7195",
                 "split": "FSD50K/test",
@@ -969,8 +969,8 @@
             },
             {
               "base_name": "7207",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7207-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7207.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7207-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7207.wav",
               "metadata": {
                 "filename": "7207",
                 "split": "FSD50K/test",
@@ -980,8 +980,8 @@
             },
             {
               "base_name": "7231",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7231-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7231.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7231-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7231.wav",
               "metadata": {
                 "filename": "7231",
                 "split": "FSD50K/test",
@@ -991,8 +991,8 @@
             },
             {
               "base_name": "7456",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7456-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7456.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7456-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7456.wav",
               "metadata": {
                 "filename": "7456",
                 "split": "FSD50K/test",
@@ -1002,8 +1002,8 @@
             },
             {
               "base_name": "7514",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7514-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7514.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7514-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7514.wav",
               "metadata": {
                 "filename": "7514",
                 "split": "FSD50K/test",
@@ -1013,8 +1013,8 @@
             },
             {
               "base_name": "7639",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7639-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7639.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7639-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/7639.wav",
               "metadata": {
                 "filename": "7639",
                 "split": "FSD50K/test",
@@ -1024,8 +1024,8 @@
             },
             {
               "base_name": "8279",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8279-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8279.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8279-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8279.wav",
               "metadata": {
                 "filename": "8279",
                 "split": "FSD50K/test",
@@ -1035,8 +1035,8 @@
             },
             {
               "base_name": "8432",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8432-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8432.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8432-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8432.wav",
               "metadata": {
                 "filename": "8432",
                 "split": "FSD50K/test",
@@ -1046,8 +1046,8 @@
             },
             {
               "base_name": "8542",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8542-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8542.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8542-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8542.wav",
               "metadata": {
                 "filename": "8542",
                 "split": "FSD50K/test",
@@ -1057,8 +1057,8 @@
             },
             {
               "base_name": "8856",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8856-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8856.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8856-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8856.wav",
               "metadata": {
                 "filename": "8856",
                 "split": "FSD50K/test",
@@ -1068,8 +1068,8 @@
             },
             {
               "base_name": "8883",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8883-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8883.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8883-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/8883.wav",
               "metadata": {
                 "filename": "8883",
                 "split": "FSD50K/test",
@@ -1079,8 +1079,8 @@
             },
             {
               "base_name": "917",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/917-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/917.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/917-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/917.wav",
               "metadata": {
                 "filename": "917",
                 "split": "FSD50K/test",
@@ -1090,8 +1090,8 @@
             },
             {
               "base_name": "9217",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9217-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9217.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9217-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9217.wav",
               "metadata": {
                 "filename": "9217",
                 "split": "FSD50K/test",
@@ -1101,8 +1101,8 @@
             },
             {
               "base_name": "9228",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9228-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9228.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9228-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9228.wav",
               "metadata": {
                 "filename": "9228",
                 "split": "FSD50K/test",
@@ -1112,8 +1112,8 @@
             },
             {
               "base_name": "9846",
-              "reference": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9846-reference.wav",
-              "transformed": "to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9846.wav",
+              "reference": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9846-reference.wav",
+              "transformed": "to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-nvidia_bigvgan_v2_44khz_128band_512x/9846.wav",
               "metadata": {
                 "filename": "9846",
                 "split": "FSD50K/test",

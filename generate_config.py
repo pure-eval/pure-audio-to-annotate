@@ -29,7 +29,8 @@ def generate_config(base_path):
         
         for file in files:
             file_path = root_path / file
-            rel_path = str(file_path.relative_to(base_path))
+            # Note: removed base_path from relative path construction
+            rel_path = str(file_path.relative_to(base_path.parent))
             
             # Extract ID and type
             if file.endswith('-reference.wav'):
