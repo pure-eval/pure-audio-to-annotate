@@ -9,9 +9,6 @@ from datetime import datetime
 def generate_config(base_path):
     """
     Generate config JSON from directory structure.
-    
-    Example path:
-    to_annotate/to_annotate-TEST-000/to_annotate-TEST-000-descript_dac_44khz/9228-reference.wav
     """
     base_path = Path(base_path)
     files_by_set = defaultdict(lambda: defaultdict(list))
@@ -70,7 +67,7 @@ def generate_config(base_path):
             "last_updated": datetime.now().strftime("%Y-%m-%d")
         },
         "media": {
-            "base_url": "https://raw.githubusercontent.com/pure-eval/pure-audio-to-annotate/main",
+            "base_url": "https://media.githubusercontent.com/media/pure-eval/pure-audio-to-annotate/refs/heads/main",
             "file_format": "wav"
         },
         "trial_sets": []
