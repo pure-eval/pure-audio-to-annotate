@@ -1,0 +1,6 @@
+{
+  "filename": "174",
+  "split": "FSD50K/test",
+  "model_name": "nvidia_bigvgan_v2_44khz_128band_512x",
+  "clip_length": 1.0
+}

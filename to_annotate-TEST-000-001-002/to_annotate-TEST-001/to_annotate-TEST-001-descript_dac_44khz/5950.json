@@ -1,0 +1,6 @@
+{
+  "filename": "5950",
+  "split": "FSD50K/test",
+  "model_name": "descript_dac_44khz",
+  "clip_length": 1.0
+}

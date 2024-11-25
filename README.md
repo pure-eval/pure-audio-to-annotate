@@ -59,24 +59,22 @@ Git LFS is required for handling audio files efficiently. To set up:
 
 2. Run the configuration generator:
    ```bash
-   python generate_config.py
+   python generate_config.py experiment_dir
    ```
 
 The script will:
-- Scan the `static/to_annotate` directory
-- Generate `config/audio_config.json`
-- Create `README.md` with repository statistics
+- Scan the `{experiment_dir}` directory
+- Generate `config/{experiment_dir}.json`
 
 ## Directory Structure
 
 Expected input structure:
 ```
-static/to_annotate/
-└── trial_set_name/
-    └── condition_name/
-        ├── id.wav           # Transformed audio
-        ├── id-reference.wav # Reference audio
-        └── id.json         # Metadata
+experiment_dir/
+└──.../
+    ├── id.wav           # Transformed audio
+    ├── id-reference.wav # Reference audio
+    └── id.json          # Metadata
 ```
 
 ## Audio License
