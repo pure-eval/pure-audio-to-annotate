@@ -28,9 +28,11 @@ def generate_config(experiment_dir):
         trans = ref.replace('-reference.wav', '.wav')
         if trans in wav_files:
             trials.append({
-                "reference": str(Path(ref).relative_to(base_path.parent)),
-                "transformed": str(Path(trans).relative_to(base_path.parent)),
-                "metadata": {}  # Could load from JSON if needed
+                #"reference": str(Path(ref).relative_to(base_path.parent)),
+                #"transformed": str(Path(trans).relative_to(base_path.parent)),
+                "reference": ref,
+                "transformed": trans,
+                "metadata": json.loads(open(trans.replace('.wav', '.json')).read())
             })
 
     random.shuffle(trials)
@@ -42,13 +44,12 @@ def generate_config(experiment_dir):
         start = i * TRIALS_PER_STUDY
         end = start + TRIALS_PER_STUDY
         studies.append({
-            "id": f"study_{i+1:03d}",
+            "name": f"study_{i+1:03d}",
             "trials": trials[start:end]
         })
 
     config = {
         "experiments": [{
-            "id": base_path.name,
             "name": base_path.name,
             "studies": studies
         }]
@@ -63,9 +64,12 @@ def main():
     args = parser.parse_args()
 
     config = generate_config(args.experiment_dir)
-    
+
     os.makedirs('config', exist_ok=True)
     config_path = f'config/{Path(args.experiment_dir).name}.json'
+
+    if os.path.exists(config_path):
+        raise FileExistsError(f"Config file already exists: {config_path}")
     
     with open(config_path, 'w') as f:
         json.dump(config, f, indent=2)
